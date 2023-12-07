@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "br.com.niverbook.app-mergeDebugResources-50:/layout/activity_main.xml",
+        "source": "br.com.niverbook.app-main-53:/layout/activity_main.xml"
+    },
+    {
+        "merged": "br.com.niverbook.app-mergeDebugResources-50:/layout/activity_splash_screen.xml",
+        "source": "br.com.niverbook.app-main-53:/layout/activity_splash_screen.xml"
+    }
+]
